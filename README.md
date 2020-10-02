@@ -13,17 +13,17 @@ The goal of this website is to create a service and social network that appeals 
 #### Campers
 ⋅⋅⋅ Users of our website. 
 Campers may:
-⋅⋅* Browse campsite information
-⋅⋅* Create a new trip
-⋅⋅* View schedule of a trip they participate in
-⋅⋅* (Participate in vote)
-⋅⋅* (Make post about their trip)
+- Browse campsite information
+- Create a new trip
+- View schedule of a trip they participate in
+- (Participate in vote)
+- (Make post about their trip)
 #### Trip Owner (Organizer)
-⋅⋅* On our webpage, Trip owner refers to the organizer of a specific trip. There may be one or more Trip Owners for one trip.
+- On our webpage, Trip owner refers to the organizer of a specific trip. There may be one or more Trip Owners for one trip.
 Trip Owners may:  
-⋅⋅* Edit the trip they own
-⋅⋅*Invite their friends to their trip as guests 
-⋅⋅* (Create and manage votes for choosing dates/campsites, etc.)
+- Edit the trip they own
+- Invite their friends to their trip as guests 
+- (Create and manage votes for choosing dates/campsites, etc.)
 
 ## Resources
 recreation.gov API: 
