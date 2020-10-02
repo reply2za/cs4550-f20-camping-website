@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../css/styles.css" rel="stylesheet"/>
+    <link href="profile.style.client.css" rel="stylesheet"/>
+  </head>
+  <body>
+<div class="container">
+
+  <a href="../index.html">
+    Home
+  </a>
+  <h1>Profile</h1>
+
+  <div class="alert alert-success" role="alert">
+    Profile Successfully Saved
+  </div>
+<!--  Username  -->
+  <div class="form-group row">
+    <label for="usernameFId" class="col-sm-2 col-form-label">Username</label>
+    <div class="col-sm-10">
+    <input id="usernameFId" readonly value="Alice" type="text"
+           class="form-control wbdv-field wbdv-username"/>
+    </div>
+  </div>
+
+<!--  Phone -->
+  <div class="form-group row">
+    <label for="phoneFId" class="col-sm-2 col-form-label">Phone</label>
+    <div class="col-sm-10">
+      <input type="tel" class="form-control wbdv-field wbdv-phone" id="phoneFId">
+    </div>
+  </div>
+
+<!--Email-->
+  <div class="form-group row">
+    <label for="emailFId" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control wbdv-field wbdv-email" id="emailFId">
+    </div>
+  </div>
+
+<!--  Role Dropdown  -->
+  <div class="form-group row">
+    <label for="roleFId" class="col-sm-2 col-form-label">Role</label>
+    <div class = "col-sm-10">
+      <select class="form-control wbdv-field wbdv-role" id= "roleFId">
+        <option>Faculty</option>
+        <option>Student</option>
+        <option>Admin</option>
+      </select>
+  </div>
+  </div>
+
+
+
+<!--  DOB  -->
+  <div class="form-group row">
+    <label for="dob" class="col-sm-2 col-form-label">DOB</label>
+    <div class="col-sm-10">
+      <input type="date" value="2010-10-02" class="form-control wbdv-field wbdv-dob" id="dob">
+    </div>
+  </div>
+
+<!--Update button-->
+  <div class="form-group row">
+    <label for="updateSettings" class="col-sm-2 col-form-label"></label>
+    <div class="col-sm-10">
+    <a href="#" button class="btn btn-success btn-block wbdv-button wbdv-update" id="updateSettings">
+        Update
+    </a>
+  </button>
+    </div>
+  </div>
+
+<!--Logout button-->
+  <div class="form-group row">
+    <label for="logout" class="col-sm-2 col-form-label"></label>
+    <div class="col-sm-10">
+    <a href="../index.html" button class="btn btn-danger btn-block wbdv-button wbdv-logout"
+       id="logout">
+    Logout
+    </a>
+  </button>
+    </div>
+  </div>
+
+</div> <!-- close container -->
+  </body>
+</html>

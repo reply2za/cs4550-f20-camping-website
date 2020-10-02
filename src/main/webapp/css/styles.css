@@ -1,0 +1,47 @@
+h1{
+  color: black;
+  background-color: white;
+}
+
+
+input {
+  margin-bottom: 15px;
+}
+
+.wbdv-nudge-15px-down {
+  position: relative;
+  top: 15px;
+}
+
+.wbdv-bottom-right-fixed {
+  position: fixed;
+  color: red;
+  right: 15px;
+  bottom: 15px;
+}
+
+body {
+  padding-top: 100px;
+}
+
+
+
+.wbdv-padding-left-header {
+  padding-left: 36px;
+  padding-top: 15px;
+  color: lightgray;
+}
+
+.wbdv-file-icon-style {
+  color: dodgerblue;
+}
+
+.wbdv-circle-add-style {
+  color: darkred;
+}
+
+.wbdv-document-table-text-style {
+  color: black;
+  padding-left: 12px;
+}
+
