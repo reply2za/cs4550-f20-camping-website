@@ -10,23 +10,23 @@ Create a website that allows users to organize a camping trip together in a way 
 The goal of this website is to create a service and social network that appeals to all types of campers. Users of the website can be professional or recreational campers, including individuals who may have not camped before but are interested in doing so with others.
 
 ### Breakdown of user types: 
-Campers
-Users of our website. 
+#### Campers
+⋅⋅⋅ Users of our website. 
 Campers may:
-Browse campsite information
-Create a new trip
-View schedule of a trip they participate in
-(Participate in vote)
-(Make post about their trip)
-Trip Owner (Organizer)
-On our webpage, Trip owner refers to the organizer of a specific trip. There may be one or more Trip Owners for one trip.
+⋅⋅* Browse campsite information
+⋅⋅* Create a new trip
+⋅⋅* View schedule of a trip they participate in
+⋅⋅* (Participate in vote)
+⋅⋅* (Make post about their trip)
+#### Trip Owner (Organizer)
+⋅⋅* On our webpage, Trip owner refers to the organizer of a specific trip. There may be one or more Trip Owners for one trip.
 Trip Owners may:  
- Edit the trip they own
- Invite their friends to their trip as guests 
-(Create and manage votes for choosing dates/campsites, etc.)
+⋅⋅* Edit the trip they own
+⋅⋅*Invite their friends to their trip as guests 
+⋅⋅* (Create and manage votes for choosing dates/campsites, etc.)
 
 ## Resources
-recreation.gov API
+recreation.gov API: 
 https://ridb.recreation.gov/docs
 
 API provides us with information about all activities, campsites, facilities, organizations, and tours there are in relation to outdoor recreation. The API is completely free and managed by the US government.
