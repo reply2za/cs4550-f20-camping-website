@@ -1,5 +1,4 @@
-# Outdoor Camping Website
-Outdoor Webapp
+# Outdoor Camping Website (Web App)
 
 ## Problem
  Existing outdoor platforms provide users with access to campsite information and availability but do little to help users actually organize a camping trip. While finding a nearby available campsite is an important component to camping, organizing the logistics of the trip with friends is frequently problematic. Additionally, camping platforms often provide so many options that making a decision about where to go can be somewhat overwhelming.
