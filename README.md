@@ -1,2 +1,2 @@
-# wbdv-final-project
-Outdoor camping webapp.
+# Outdoor Camping Website
+Description here.
