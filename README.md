@@ -1,16 +1,16 @@
 # Outdoor Camping Website
 Outdoor Webapp
 
-##Problem
+## Problem
  Existing outdoor platforms provide users with access to campsite information and availability but do little to help users actually organize a camping trip. While finding a nearby available campsite is an important component to camping, organizing the logistics of the trip with friends is frequently problematic. Additionally, camping platforms often provide so many options that making a decision about where to go can be somewhat overwhelming.
 
-##Proposal
+## Proposal
 Create a website that allows users to organize a camping trip together in a way that simplifies the planning process while also suggesting best nearby campsites in a method that rids of overchoice.
 
-##User types
+## User types
 The goal of this website is to create a service and social network that appeals to all types of campers. Users of the website can be professional or recreational campers, including individuals who may have not camped before but are interested in doing so with others.
 
-###Breakdown of user types: 
+### Breakdown of user types: 
 Campers
 Users of our website. 
 Campers may:
@@ -26,14 +26,14 @@ Trip Owners may:
  Invite their friends to their trip as guests 
 (Create and manage votes for choosing dates/campsites, etc.)
 
-##Resources
+## Resources
 recreation.gov API
 https://ridb.recreation.gov/docs
 
 API provides us with information about all activities, campsites, facilities, organizations, and tours there are in relation to outdoor recreation. The API is completely free and managed by the US government.
 
 
-##Theorized Layout
+## Theorized Layout
 
 Login page (links to Forgot Password and Register pages)
 Dashboard (currently planned trips and a button or something to plan a new trip)
